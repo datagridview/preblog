@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Darwin庸庸碌碌"
+title                    : "DataGridView庸庸碌碌"
 title_separator          : "-"
-subtitle                 : “备忘小站
+subtitle                 : "什么时候开始都不晚"
 name                     : "Darwin"
-description              : "什么时候开始都不晚"
+description              : "备忘小站"
 url                      : "https://datagridview.github.io"
 baseurl                  : "/preblog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -281,3 +281,6 @@ defaults:
       comments: true
       share: false
       related: false
+      toc: true
+      toc_label: "My Table of Contents"
+      toc_icon: "cog"
