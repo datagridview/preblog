@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: 分布式系统和架构相关
 ---
 

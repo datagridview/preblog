@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: 操作系统相关
 ---
 - [什么是系统调用？](#什么是系统调用)

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Windows下配置MySql(ZIP)
 ---
 

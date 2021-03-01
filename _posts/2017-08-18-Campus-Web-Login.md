@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: CampusWebLogin校园网一键登录工具
 ---
 

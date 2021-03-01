@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: 理解Javascript中的this
 ---
 

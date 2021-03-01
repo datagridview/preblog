@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Kubernetes入门实践
 ---
 - [什么是kubernetes？](#什么是kubernetes)

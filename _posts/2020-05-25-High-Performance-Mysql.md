@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: 高性能MySQL 读书笔记
 ---
 - [架构](#架构)

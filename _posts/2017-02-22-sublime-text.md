@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Sublime Text 3+Python简易IDE
 ---
 如果你厌倦了安装各种各样的IDE，同时你的电脑的性能并不怎么样，你可以选择使用Sublime Text。选择它的原因有很多：

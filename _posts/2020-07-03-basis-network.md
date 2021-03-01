@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: 计算机网络相关
 ---
 

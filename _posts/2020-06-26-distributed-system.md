@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: 分布式系统概念与设计 读书笔记
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: redis原理解析 
 ---
 - [SDS结构](#sds结构)
