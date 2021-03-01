@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DataGridView庸庸碌碌"
+title                    : "庸庸碌碌的夜晚"
 title_separator          : "-"
 subtitle                 : "什么时候开始都不晚"
 name                     : "Darwin"
