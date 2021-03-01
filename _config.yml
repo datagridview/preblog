@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Darwin庸庸碌碌"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : “备忘小站
 name                     : "Darwin"
 description              : "什么时候开始都不晚"
 url                      : "https://datagridview.github.io"
@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Darwin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Beijing."
+  bio              : "Linux & Hardware & DevOps Developer"
+  location         : "Beijing"
   email            :
   links:
     - label: "Email"
@@ -274,9 +274,10 @@ defaults:
       path: ""
       type: posts
     values:
+      classes: wide
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
+      comments: true
+      share: false
       related: false
