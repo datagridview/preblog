@@ -272,14 +272,14 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: false
-      related: false
-      toc: true
-      toc_label: "Table of Contents"
-      toc_icon: "cog"
+      # author_profile: true
+      # read_time: true
+      # comments: true
+      # share: false
+      # related: false
+      # toc: true
+      # toc_label: "Table of Contents"
+      # toc_icon: "cog"
