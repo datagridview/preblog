@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "Darwin庸庸碌碌"
 title_separator          : "-"
 subtitle                 : “备忘小站
