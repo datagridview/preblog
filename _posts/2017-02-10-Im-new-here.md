@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 写在2017的开始吧
 ---
 
