@@ -8,8 +8,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      # share: true
-      # related: true
+      share: false
+      related: false
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
